@@ -4,17 +4,21 @@ import PropTypes from 'prop-types';
 import { Header } from './Header';
 import './page.css';
 
-export const Page = ({ user, onLogin, onLogout, onCreateAccount }) => (
+export const Page = ({
+  user, onLogin, onLogout, onCreateAccount,
+}) => (
   <article>
     <Header user={user} onLogin={onLogin} onLogout={onLogout} onCreateAccount={onCreateAccount} />
 
     <section>
       <h2>Pages in Storybook</h2>
       <p>
-        We recommend building UIs with a{' '}
+        We recommend building UIs with a
+        {' '}
         <a href="https://componentdriven.org" target="_blank" rel="noopener noreferrer">
           <strong>component-driven</strong>
-        </a>{' '}
+        </a>
+        {' '}
         process starting with atomic components and ending with pages.
       </p>
       <p>
@@ -33,18 +37,23 @@ export const Page = ({ user, onLogin, onLogout, onCreateAccount }) => (
         </li>
       </ul>
       <p>
-        Get a guided tutorial on component-driven development at{' '}
+        Get a guided tutorial on component-driven development at
+        {' '}
         <a href="https://storybook.js.org/tutorials/" target="_blank" rel="noopener noreferrer">
           Storybook tutorials
         </a>
-        . Read more in the{' '}
+        . Read more in the
+        {' '}
         <a href="https://storybook.js.org/docs" target="_blank" rel="noopener noreferrer">
           docs
         </a>
         .
       </p>
       <div className="tip-wrapper">
-        <span className="tip">Tip</span> Adjust the width of the canvas with the{' '}
+        <span className="tip">Tip</span>
+        {' '}
+        Adjust the width of the canvas with the
+        {' '}
         <svg width="10" height="10" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
           <g fill="none" fillRule="evenodd">
             <path
