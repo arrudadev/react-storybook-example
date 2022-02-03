@@ -9,7 +9,8 @@
     "start": "next start",
     "lint": "lint-staged",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "prepare": "husky install"
   },
   "keywords": [
     "react",
@@ -38,6 +39,7 @@
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-react": "^7.28.0",
     "eslint-plugin-react-hooks": "^4.3.0",
+    "husky": "^7.0.4",
     "lint-staged": "^12.3.3",
     "prettier": "^2.5.1"
   }
