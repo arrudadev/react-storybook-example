@@ -7,7 +7,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
+    "lint": "lint-staged",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
@@ -38,6 +38,7 @@
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-react": "^7.28.0",
     "eslint-plugin-react-hooks": "^4.3.0",
+    "lint-staged": "^12.3.3",
     "prettier": "^2.5.1"
   }
 }
