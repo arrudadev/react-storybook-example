@@ -8,3 +8,12 @@
 </h1>
 
 <h4 align="center">A example of usage of the <a href="https://storybook.js.org/" target="_blank">Storybook</a> in a ReactJs app.</h4>
+
+<div align="center">
+  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+  
+</div>
+
+
