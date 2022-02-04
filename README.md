@@ -3,7 +3,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="100" width="100" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="100" width="150" />
   </div>
-  <br>
   React + Storybook
   <br>
 </h1>
