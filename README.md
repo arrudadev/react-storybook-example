@@ -17,4 +17,4 @@
 
 </div>
 
-<img src="./github/assets/cover.png" height="500" width="100%" alt="cover" />
+<img src="https://raw.githubusercontent.com/arrudadev/react-storybook-example/main/.github/assets/cover.png" height="500" width="100%" alt="cover" />
