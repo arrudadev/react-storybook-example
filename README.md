@@ -18,3 +18,12 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/arrudadev/react-storybook-example/main/.github/assets/cover.png" height="500" width="100%" alt="cover" />
+
+# :pushpin: Table of Contents
+
+* [Technologies](#-technologies)
+* [Installation](#construction_worker-installation)
+* [Getting Started](#runner-getting-started)
+* [Found a bug? Missing a specific feature?](#bug-issues)
+* [Contributing](#tada-contributing)
+* [License](#closed_book-license)
