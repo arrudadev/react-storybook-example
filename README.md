@@ -27,3 +27,10 @@
 * [Found a bug? Missing a specific feature?](#bug-issues)
 * [Contributing](#tada-contributing)
 * [License](#closed_book-license)
+
+## 💻 Technologies
+
+This project was developed with the following technologies:
+
+- [React](https://reactjs.org)
+- [Storybook](https://storybook.js.org/)
