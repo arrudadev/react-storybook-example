@@ -17,6 +17,11 @@
 
 </div>
 
+<p align="center">
+  <a href="https://github.com/arrudadev/react-storybook-example/issues">Report Bug</a> •
+  <a href="https://github.com/arrudadev/react-storybook-example/issues">Request Feature</a>
+</p>
+
 <img src="https://raw.githubusercontent.com/arrudadev/react-storybook-example/main/.github/assets/cover.png" height="500" width="100%" alt="cover" />
 
 # :pushpin: Table of Contents
