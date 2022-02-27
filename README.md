@@ -24,14 +24,17 @@
 
 <img src="https://raw.githubusercontent.com/arrudadev/react-storybook-example/main/.github/assets/cover.png" height="500" width="100%" alt="cover" />
 
-# :pushpin: Table of Contents
+<h2 id="table-of-contents"> :pushpin: Table of Contents</h2>
 
-* [Technologies](#-technologies)
-* [Installation](#construction_worker-installation)
-* [Getting Started](#runner-getting-started)
-* [Found a bug? Missing a specific feature?](#bug-issues)
-* [Contributing](#tada-contributing)
-* [License](#closed_book-license)
+* [About The Project](#about-the-project)
+* [Technologies](#technologies)
+* [Getting Started](#getting-started)
+   * [Prerequisites](#prerequisites)
+   * [Installation](#installation)
+   * [Usage](#usage)
+* [Contributing](#contributing)
+* [Collaborators](#collaborators)
+* [License](#license)
 
 <h2 id="about-the-project"> :pencil: About The Project</h2>
 
