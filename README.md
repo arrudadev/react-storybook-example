@@ -33,6 +33,12 @@
 * [Contributing](#tada-contributing)
 * [License](#closed_book-license)
 
+<h2 id="about-the-project"> :pencil: About The Project</h2>
+
+<p align="justify">
+  This project is a small example of the usage the Storybook. Storybook is an open source tool for building UI components and pages in isolation. It streamlines UI development, testing, and documentation. The purpose of this project is to study how to use the Storybook in a React app.
+</p>
+
 ## 💻 Technologies
 
 This project was developed with the following technologies:
